@@ -1,1 +1,1 @@
-# energy-calc
+# math-visualizer
